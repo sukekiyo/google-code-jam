@@ -1,4 +1,4 @@
-[Google-Code-Jam](https://code.google.com/codejam/contests.html) 2013
+[Google Code Jam](https://code.google.com/codejam/contests.html) 2013
 ===============
 
 
